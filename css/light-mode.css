@@ -1,0 +1,15 @@
+/* light-mode.css */
+
+/* Set the background color */
+body {
+    background-color: #00f8c6;
+}
+
+/* Set the text color */
+body,
+h1,
+p {
+    color: #000000;
+}
+
+/* Add additional styles as needed */

@@ -1,0 +1,24 @@
+/* dark-mode.css */
+
+/* Set the background color to a dark color */
+body {
+    background-color: #f10505;
+}
+
+/* Set the text color to a light color */
+body,
+h1,
+p {
+    color: #ffffff;
+}
+
+/* Example styles for specific elements */
+h1 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* Add more styles as needed */
